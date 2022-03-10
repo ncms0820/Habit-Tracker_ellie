@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Habit-Tracker_ellie/static/css/main.ae812bd2.css",
+    "main.js": "/Habit-Tracker_ellie/static/js/main.adbf5b9f.js",
+    "index.html": "/Habit-Tracker_ellie/index.html",
+    "main.ae812bd2.css.map": "/Habit-Tracker_ellie/static/css/main.ae812bd2.css.map",
+    "main.adbf5b9f.js.map": "/Habit-Tracker_ellie/static/js/main.adbf5b9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae812bd2.css",
+    "static/js/main.adbf5b9f.js"
+  ]
+}
